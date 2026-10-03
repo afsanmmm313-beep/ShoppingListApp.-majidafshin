@@ -1,0 +1,7 @@
+<resources>
+    <color name="lux_bg">#0C1714</color>
+    <color name="lux_surface">#13241F</color>
+    <color name="lux_gold">#D6B56A</color>
+    <color name="lux_ivory">#F2EBDA</color>
+    <color name="lux_muted">#8FA39B</color>
+</resources>

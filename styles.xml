@@ -1,0 +1,18 @@
+<resources>
+    <style name="AppTheme" parent="Theme.Material3.Dark.NoActionBar">
+        <item name="android:windowBackground">@color/lux_bg</item>
+        <item name="colorPrimary">@color/lux_gold</item>
+        <item name="android:colorAccent">@color/lux_gold</item>
+    </style>
+
+    <style name="LuxDialog" parent="android:Theme.Material.Dialog.Alert">
+        <item name="android:windowBackground">@drawable/bg_dialog</item>
+        <item name="android:colorBackgroundFloating">@color/lux_surface</item>
+        <item name="android:colorAccent">@color/lux_gold</item>
+        <item name="android:textColorPrimary">@color/lux_ivory</item>
+        <item name="android:textColorSecondary">@color/lux_muted</item>
+        <item name="android:textColorHint">@color/lux_muted</item>
+        <item name="android:colorControlActivated">@color/lux_gold</item>
+        <item name="android:colorControlNormal">@color/lux_muted</item>
+    </style>
+</resources>
